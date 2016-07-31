@@ -1,0 +1,44 @@
+# Site wide configuration
+
+title:            David GL
+locale:           en_US
+url:              https://David-G-L.github.io
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+# Site owner
+owner:
+  name: David 
+  surname: Garc&iacutea-Le&oacuten
+  avatar: photo-me-2.jpg
+  bio: "PhD. Candidate in Economics at the University of Alicante (Spain)."
+  email: dgl-at-ua-dot-es
+  github: david-g-l
+  ideas: pga787
+  orcid: /0000-0002-3205-7613
+  scholar: _MrQ0wsAAAAJ
+  researchgate: David_Garcia-Leon2
+  disqus-shortname: davidgl
+  feed: true
+  google: 
+    analytics: UA-56785827-2
+ 
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

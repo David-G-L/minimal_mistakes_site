@@ -1,0 +1,14 @@
+# Alternatively, this commands can be located in _config.yml. Each time site is created, glynn will be executed
+# To connect to ftp, go to cd>jekyll>minimal-mistakes-site and type 'glynn'
+
+# Site wide configuration
+
+ftp_host: 'davidgl.eu'
+ftp_dir: '/main'           
+ftp_passive: false
+
+# optional
+ftp_port: 21                  # default 21
+ftp_username: 'u79088470'     # default read from stdin
+ftp_password: '9683dgl20'     # default read from stdin
+ftp_secure: true              # default false

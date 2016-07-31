@@ -1,0 +1,19 @@
+# Site navigation links
+  
+- title: Research
+  url: /research/
+  
+- title: Teaching
+  url: /teaching/
+  
+- title: Papers
+  url: /papers/
+
+- title: Code
+  url: /code/
+
+- title: Weather
+  url: http://weather.davidgl.eu
+  
+# title: Misc
+# url: /misc/ 

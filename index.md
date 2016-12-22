@@ -9,9 +9,7 @@ image:
 ---
 ## About
 
-I'm a PhD. Candidate in Quantitative Economics at the [University of Alicante](http://fae.ua.es/FAEX/){:target="_blank"} 
-(Spain). From September 2016, I will be joining [Fondazione Eni Enrico Mattei](http://www.feem.it/){:target="_blank"} (FEEM) as a [**Marie Sk&#322;odowska-Curie Research Fellow**](http://ec.europa.eu/research/mariecurieactions/index_en.htm){:target="_blank"} to develop my project **WATER DROP** (*Droughts and Water Scarcity in the EU: Economic Impact, Adaptation,
-Policy Implications and Integrated Assessment Modelling*) during the following 24 months.
+I am a Marie Sk&#322;odowska-Curie Research Fellow at the [Fondazione Eni Enrico Mattei](http://www.feem.it/){:target="_blank"} where I develop my project **WATER DROP** (*Droughts and Water Scarcity in the EU: Economic Impact, Adaptation, Policy Implications and Integrated Assessment Modelling*).
 
 My research interests are mainly the economic and social costs of Climate Change, Environmental Economics, and Economic Development and Growth. By examining local and regional data and by using statistical and econometric techniques, I try to understand the relationship between society and the environment. I am very much interested in computer  programming and steadily searching for innovative ways of displaying data. 
 

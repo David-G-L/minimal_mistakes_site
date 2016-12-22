@@ -7,7 +7,7 @@ image:
   credit: NASA
   creditlink: http://climate.nasa.gov/state_of_flux
 ---
-##About
+## About
 
 I am a Marie Sk&#322;odowska-Curie Research Fellow at the [Fondazione Eni Enrico Mattei](http://www.feem.it/){:target="_blank"}, where I develop my project **WATER DROP** (*Droughts and Water Scarcity in the EU: Economic Impact, Adaptation, Policy Implications and Integrated Assessment Modelling*).
 

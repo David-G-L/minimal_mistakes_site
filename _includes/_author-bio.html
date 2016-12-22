@@ -13,7 +13,7 @@
   <h3 itemprop="name">{{ author.name }}<br>{{ author.surname }}</h3>
   <p>{{ author.bio }}</p>
   <hr width="50%" align="left">
-  <a href="{{ site.url }}/CV_DGL.pdf" onclick="ga('send','event','Descarga CV','CV')" class="author-social" target="_blank"><i class="fa fa-fw fa-caret-right"></i><i>Curriculum Vitae</i></a>
+  <a href="{{ site.url }}/pdf/CV_DGL.pdf" onclick="ga('send','event','Descarga CV','CV')" class="author-social" target="_blank"><i class="fa fa-fw fa-caret-right"></i><i>Curriculum Vitae</i></a>
   <hr width="50%" align="left">
   {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
   {% if author.scholar %}<a href="https://scholar.google.com/citations?user={{ author.scholar }}" class="author-social" target="_blank"><i class="ai ai-fw ai-google-scholar"></i> Google Scholar</a>{% endif %}

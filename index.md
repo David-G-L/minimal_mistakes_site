@@ -1,5 +1,6 @@
 ---
 layout: home
+title: About
 excerpt: "David Garc&iacutea-Le&oacuten Personal Website"
 tags: [Climate Change, Economics, quantitative, PhD, adaptation]
 image:
@@ -7,8 +8,6 @@ image:
   credit: NASA
   creditlink: http://climate.nasa.gov/state_of_flux
 ---
-## About
-
 I am a Marie Sk&#322;odowska-Curie Research Fellow at the [Fondazione Eni Enrico Mattei](http://www.feem.it/){:target="_blank"}, where I develop my project **WATER DROP** (*Droughts and Water Scarcity in the EU: Economic Impact, Adaptation, Policy Implications and Integrated Assessment Modelling*).
 
 My research interests vary from Environmental Economics to the economic and social impacts of Climate Change. By examining local and regional data and by using statistical and econometric techniques, I try to understand the relationship between society and the environment. I am very much interested in computer  programming and steadily searching for innovative ways of displaying data. 

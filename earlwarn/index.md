@@ -16,7 +16,7 @@ Prompt access to climate services at a high-resolution level is crucial to assis
 
 The surge and popularity of climate services as tools to mitigate and adapt to climate change has peaked in Europe with the launch of the [Copernicus](http://www.copernicus.eu/){:target="_blank"} programme coupled with the [Sentinel](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Overview4){:target="_blank"} family of satellites. Through satellite and in situ observations, new value-added climate services can be created to deliver near-real-time data that can be used for local and regional needs. In particular, our prior knowledge of the agricultural specificities (use of land, crops grown, phenology, etc) of the Po river basin area enables us with the potential to create a tailor-made climate service to warn stakeholders about the drought stress experienced at the local level over the growing season.
 
-####Features of the Service
+#### Features of the Service
 
 - Agricultural-oriented climate service addressing specifically the incidence of droughts on the Po river agricultural sector.
 
@@ -37,17 +37,17 @@ The surge and popularity of climate services as tools to mitigate and adapt to c
 	<figcaption>Drought warnings could be aggregated at the Regione Agraria (RA) level. Illustration of the RA classification in the Emilia Romagna Region. <i>Source: </i><a href="https://www.arpae.it/" target="_blank">ARPAE</a>.</figcaption>
 </figure>
 
-####Dissemination
+#### Dissemination
 
 The provision of climate information in a way that assists decision making by individuals and organisations must be accompanied by appropriate engagement along with an effective access mechanism and must respond to user needs. This service will be featured via an interactive [Google Earth Engine](https://earthengine.google.com/){:target="_blank"} app and included as part of the [CLARA project](http://clara-project.eu/){:target="_blank"}.
 
-####Extensions 
+#### Extensions 
 
 - **Yield forecasts**. The above service may be complemented feeding crop-specific models calibrated to the study area, such as [WOFOST](http://bioma.jrc.ec.europa.eu/documentation/Wofost%20Modelling%20Solution%20Documentation.pdf){:target="_blank"}, with actual field-level yield data to produce seasonal yield forecasts and, thus, accompany early warnings to potential drought impacts on yields.
 
 - **Automatic learning**. The choice of indicators to identify pixel-level environmental stress could be trained to identify triggers of actual drought onset, adapting Jean et al. ([2016](http://science.sciencemag.org/content/353/6301/790){:target="_blank"}).
 
-####Materials and Methods
+#### Materials and Methods
 
 Remote sensing and Meteorological data will be extracted from different sources, such as Copernicus, MODIS, ESA or ECMWF. Yield and surface data comes from the RICA dataset. Methodology will be
 adapted from Meroni et al. ([2017](https://mars.jrc.ec.europa.eu/asap/){:target="_blank"}).

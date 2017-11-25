@@ -26,7 +26,7 @@ In the context of global warming, as drought episodes become increasingly freque
 	<figcaption>Spatial distribution of cereal production in Spain, as derived from the ESYRCE survey. Wheat (upper left), Barley (upper right), Oat (bottom left) and Rye (bottom right).</figcaption>
 </figure>
 
-###Main findings
+### Main findings
 
 We found that VCI and TCI correlated positively with annual yields, that is, agricultural droughts (characterised by values of these variables below 0.5) generated yield damages that ranged from 2% up to more than 20% depending on the crop and the severity of the drought episode. Moreover, we found that the effect of VCI on yields is intensified as we approach the harvesting phase of crops (Siebert et al. [2017](http://iopscience.iop.org/article/10.1088/1748-9326/aa7f15){:target="_blank"}). On the other hand, TCI had a significant effect on the first and last stages of the growing period (except for rye, in which TCI was relevant in the second and third stages). Despite farm level yields being explained by a large set of local and specific factors, a remarkable amount of yield variability at the field scale was explained only by using these two drought condition indices.
 
@@ -50,7 +50,7 @@ The Drought Environment Index (DEI) demonstrated to be a valuable index for asse
 
 The purpose of this research project is to advance in describing the role of remote sensing drought indicators as explanatory factors of rainfed crop yields using empirical crop models. From this research phase, an early warning drought classification system could be extracted.
 
-####Data
+#### Data
 
 **Weather and Remote Sensing data**
 

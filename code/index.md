@@ -5,7 +5,7 @@ share: false
 comments: false
 ---
 
-###Resources to convert Remote Sensing objects to Time Series
+### Resources to convert Remote Sensing objects to Time Series
 
 To perform time series and regression analysis, satellite imagery first needs to be transformed into a suitable format. I highlight next four different methods to convert satellite observation (typically in .HDF or .NetCDF format) to .csv, .Rda files.
 

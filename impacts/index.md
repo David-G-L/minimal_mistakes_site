@@ -50,7 +50,7 @@ The Drought Environment Index (DEI) demonstrated to be a valuable index for asse
 
 The purpose of this research project is to advance in describing the role of remote sensing drought indicators as explanatory factors of rainfed crop yields using empirical crop models. From this research phase, an early warning drought classification system could be extracted.
 
-#### Data
+### Data
 
 **Weather and Remote Sensing data**
 
@@ -66,7 +66,7 @@ The purpose of this research project is to advance in describing the role of rem
 
 **Yield data**. [RICA](http://www.rica.inea.it/public/it/index.php){:target="_blank"} dataset on yield and other agricultural variables over the Po Valley.
 
-#### Methods 
+### Methods 
 
 We will adapt the methodology of García-León et al. ([2017]({{ site.url }}/impacts/)) to this case study. An empirical crop model is estimated using meteorological and biophysical remote sensing observations
 

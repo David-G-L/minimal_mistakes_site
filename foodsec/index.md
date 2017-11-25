@@ -20,7 +20,7 @@ According to FAO, 30% of Central America is located within the Dry Corridor, 60%
 ### Case study: Honduras
 The Corredor Seco Food Security Project ([PROSASUR](http://www.mcahonduras.hn/acs-prosasur/){:target="_blank"}) is part of the *Alianza para el Corredor Seco* (Alliance for the Dry Corridor, ACS), which is the flagship program of the Government of Honduras for food and nutritional security in a large strip of land characterized by being under severe dry seasons. The Project is designed to give attention to 12,000 families in 25 municipalities in the departments of Francisco Morazán, El Paraíso and Choluteca. Detailed geo-referenced yield and agro-management farm data for area is available from 2016. Yield maps of this region will help to distribute food assistance and support packages (seeds and fertilizers) efficiently after the *primera* season.
 
-###Methods
+### Methods
 
 I will use a linear statistical crop model fed with high resolution Vegetation Indices (VIs) and drought-specific indicators. I will construct cloud-free NDVI anomalies from Landsat 8 (30 meters) using Google Earth Engine (GEE). Total evapotranspiration, considered crucial to determine yield performance in water-limited environments, will also be calculated from [EEFlux](https://eeflux-level1.appspot.com/){:target="_blank"} (GEE-based). My methodology will also account for area-specific characteristics, such as the effect of ENSO on yields (described below).
 

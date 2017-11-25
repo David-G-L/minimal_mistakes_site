@@ -7,7 +7,7 @@ comments: false
 
 ### Convert remote sensing images to time series
 
-To perform time series and regression analysis, satellite imagery first needs to be transformed into a suitable format. I highlight next four different methods to convert satellite observation (typically in .HDF or .NetCDF format) to .csv, .Rda files.
+To perform time series and regression analysis, satellite imagery first needs to be transformed into a suitable format. I highlight next four different methods to convert satellite observation (typically in .HDF or .NetCDF format) to .csv or .Rda files.
 
 - **ENVI-IDL**: Proprietary remote-sensing software that provides hyperspectral image analysis, image enhancement and feature extraction. Usually served with IDL, a programming software used for data analysis, visualization and cross-platform application development. [[link](http://www.harrisgeospatial.com/SoftwareTechnology/ENVI.aspx){:target="_blank"}]
 

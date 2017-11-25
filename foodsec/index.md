@@ -9,7 +9,7 @@ image:
   feature: foodsec_3-crop.jpg
 ---
 
-#### Project scheduled for 2018.
+#### (scheduled for 2018)
 
 >Eliminate hunger and eradicate poverty around the world are key priorities of the UN's Sustainable Development Goals. To accomplish this arduous task, efforts should be made in improving the productivity of smallholder farmers, who represent the weakest link in the agricultural system. High resolution yield maps emerge as crucial to strengthen the analysis and decision making by policy-makers and to optimize the design and implementation of agro-management improvement policies and aid packages NGO's and relevant stakeholders. However, currently available cropland products suffer from major limitations such as: absence of precise spatial location of the cropped areas, coarse resolution or uncertainties in differentiating crop types and cropping intensities. This lack of detailed data can be ameliorated with the use of recently developed, inexpensive, satellite-based techniques. Being this problematic traditionally analyzed in African and Asian countries, the present research proposal focuses on the Dry Corridor, a region in Central America whose population remain extremely vulnerable to food insecurity problem as a result of continued exposure to droughts.
 

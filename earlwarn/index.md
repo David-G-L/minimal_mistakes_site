@@ -10,7 +10,7 @@ image:
   credit: Google Earth Engine
 ---
 
-#### Project scheduled for 2018.
+#### (scheduled for 2018)
 
 Prompt access to climate services at a high-resolution level is crucial to assist stakeholders with the decision-making process. In the case of agriculture, decisions on the provision of water or fertilisers do heavily depend on the health status and water availability at the plot level. This project aims to facilitate access to a platform where early warning indicators of drought at the plot level are supplied for the Po river basin region.
 

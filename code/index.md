@@ -1,10 +1,11 @@
 ---
 layout: page
+title: Coding tools and resources
 share: false
 comments: false
 ---
 
-### Resources to convert Remote Sensing objects to Time Series
+### Convert remote sensing images to time series
 
 To perform time series and regression analysis, satellite imagery first needs to be transformed into a suitable format. I highlight next four different methods to convert satellite observation (typically in .HDF or .NetCDF format) to .csv, .Rda files.
 
@@ -16,9 +17,7 @@ To perform time series and regression analysis, satellite imagery first needs to
 
 - **Google Earth Engine - Command line** (Requires [Google Earth Engine Python API](https://developers.google.com/earth-engine/python_install){:target="_blank"}) [[link](http://www.khufkens.com/2017/07/22/google-earth-engine-time-series-subset-tool/){:target="_blank"}]
 
-<br>
-
-### Code snippets
+### Other code snippets
 
 - **vwIRF**: R function to build visually weighted time paths [[link](https://github.com/David-G-L/vwIRF){:target="_blank"}] [[Description of the code]]({{ site.url }}/code/vwIRF_explained.html){:target="_blank"}
 

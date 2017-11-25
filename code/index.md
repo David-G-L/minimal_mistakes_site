@@ -19,7 +19,7 @@ To perform time series and regression analysis, satellite imagery first needs to
 
 <br>
 
-### Other codes
+### Code snippets
 
 - **vwIRF**: R function to build visually weighted time paths [[link](https://github.com/David-G-L/vwIRF){:target="_blank"}] [[Description of the code]]({{ site.url }}/code/vwIRF_explained.html){:target="_blank"}
 

@@ -1,19 +1,19 @@
 # Site navigation links
   
-- title: Research
-  url: /research/
+- title: drought impacts
+  url: /impacts/
   
-#- title: Teaching
-#  url: /teaching/
+- title: crop models
+  url: /cropmod/
+ 
+- title: food security
+  url: /foodsec/
   
+- title: Drought early warning
+  url: /earlwarn/
+
 - title: Papers
   url: /papers/
 
 - title: Code
   url: /code/
-
-- title: Water Drop
-  url: http://www.water-drop.eu/
-  
-# title: Misc
-# url: /misc/ 

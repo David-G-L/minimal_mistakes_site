@@ -8,7 +8,7 @@ image:
   credit: NASA
   creditlink: http://climate.nasa.gov/state_of_flux
 ---
-I am a Marie Sk&#322;odowska-Curie Research Fellow at the [Fondazione Eni Enrico Mattei](http://www.feem.it/){:target="_blank"}, where I develop my project [**WATER DROP**](http://www.water-drop.eu/){:target="_blank"} (*Droughts and Water Scarcity in the EU: Economic Impact, Adaptation, Policy Implications and Integrated Assessment Modelling*). 
+I am a Marie Sk&#322;odowska-Curie Postdoctoral Fellow at the [Fondazione Eni Enrico Mattei](http://www.feem.it/){:target="_blank"}, where I develop my project [**WATER DROP**](http://www.water-drop.eu/){:target="_blank"} (*Droughts and Water Scarcity in the EU: Economic Impact, Adaptation, Policy Implications and Integrated Assessment Modelling*). 
 
 My current research focuses on the estimation and analysis of drought impacts on European agriculture systems in the context of climate change. I rely on statistical and process-based methods as well as on satellite imagery, machine learning and farm level data to capture these interactions. I also develop methods to implement drought early warning systems.
 

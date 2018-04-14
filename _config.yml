@@ -2,7 +2,7 @@
 
 title:            David GL
 locale:           en_US
-url:              https://David-G-L.github.io
+url:              http://www.davidgl.eu
 
 # Jekyll configuration
 
@@ -27,7 +27,7 @@ owner:
   name: David 
   surname: Garc&iacutea-Le&oacuten
   avatar: photo-me.jpg
-  bio: "Marie Sk&#322;odowska-Curie Research Fellow (FEEM, Venice)."
+  bio: "Marie Sk&#322;odowska-Curie Research Fellow (Ca' Foscari University, Venice)."
   email: david.garcia-at-feem-dot-it
   github: david-g-l
   ideas: pga787

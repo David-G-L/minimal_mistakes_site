@@ -4,7 +4,7 @@ title: Publications
 share: false
 ---
 ### Working papers
-- **Drought sensitivity changes of rainfed cereals in Spain assessed with remote sensing**, (2017). Submited to *Journal of Agronomy and Crop Science*. [[post]({{ site.url }}/impacts/)]
+- **Hydro-meteorological versus remote sensing drought indicators as explanatory factors of crop yields in water-limited areas - A case study of Spain's agricultural districts**, (2018). Submitted to *Agricultural Water Management*. [[post]({{ site.url }}/impacts/)]
 
 - **The optimal balance between Mitigation and Adaptation to Climate Change: An analysis under uncertainty**, (2015). [[pdf](http://www.feem.it/getpage.aspx?id=8280&sez=Publications&padre=73){:onclick="ga('send','event','Descarga Papers','DGL02')"}{:target="_blank"}]
 

@@ -12,11 +12,11 @@ image:
 
 ---
 
-## Drought sensitivity changes of rainfed cereals in Spain assessed with remote sensing
+## Hydro-meteorological versus remote sensing drought indicators as explanatory factors of crop yields in water-limited areas: A case study of Spain’s agricultural districts
 
-#### with [Sergio Contreras](http://www.futurewater.es/quienes-somos/nuestro-equipo/sergio-contreras-lopez/){:target="_blank"} and [Johannes Hunink](http://www.futurewater.es/quienes-somos/nuestro-equipo/johannes-hunink/){:target="_blank"} ([FutureWater](http://www.futurewater.es/){:target="_blank"}). Submitted to *Journal of Agronomy and Crop Science.*
+#### with [Sergio Contreras](http://www.futurewater.es/quienes-somos/nuestro-equipo/sergio-contreras-lopez/){:target="_blank"} and [Johannes Hunink](http://www.futurewater.es/quienes-somos/nuestro-equipo/johannes-hunink/){:target="_blank"} ([FutureWater](http://www.futurewater.es/){:target="_blank"}). Submitted to *Agricultural Water Management.*
 
-In the context of global warming, as drought episodes become increasingly frequent, it is crucial to determine whether major cereal crops are becoming more sensitive to drought in order to ensure future national food security. This study uses a 12-year dataset on crop yields and harvested areas for plots throughout Spain to estimate the effects of agricultural droughts on rainfed cereals. To assess drought stress for each location, we used two satellite-based drought indicators: the Vegetation Condition Index (VCI) and the Temperature Condition Index (TCI). We showed that both indicators are good predictors of cereal yields and are able to explain at least 28% of annual yield variation, depending on crop type. Then, we defined a crop-specific **Drought Environment Index** to evaluate changes over time of the sensitivity of yields to drought stress. By looking at each crop, we found that the general stagnation of cereal yields in Spain during the last fifteen years has been accompanied by an increase in resilience of wheat and barley fields to very adverse drought conditions, characterised by very high temperatures and extreme canopy stress. This can possibly be attributed to the development of more drought-resistant seed varieties.
+In the context of global warming, as drought episodes become increasingly frequent, it is crucial to understand how to efficiently measure agricultural drought impacts on crops. In particular, it is not clear whether statistical crop models based on more traditional and coarser meteorological indicators of droughts perform better than those based on remotely sensed indicators. We empirically assessed this hypothesis using a spatially detailed, 12-year (2003-2015) dataset on crop yields and harvested areas for plots throughout Spain to estimate statistical crop models of major winter cereals.  Yields and composite drought indicators were spatially aggregated at the Comarca Agraria level (agricultural district). We measured agricultural drought stress using the Standardised Precipitation Index (SPI) at different temporal aggregation and two remote sensing Vegetation Indicators (VIs): the Vegetation Condition Index (VCI) and the Temperature Condition Index (TCI), and their combination. 
 
 <figure class="half">
 	<a href="/images/TR_binary.png"><img src="/images/TR_binary.png"></a>
@@ -24,27 +24,15 @@ In the context of global warming, as drought episodes become increasingly freque
 	<a href="/images/AV_binary.png"><img src="/images/AV_binary.png"></a>
 	<a href="/images/CN_binary.png"><img src="/images/CN_binary.png"></a>
 	<figcaption>Spatial distribution of cereal production in Spain, as derived from the ESYRCE survey. Wheat (upper left), Barley (upper right), Oat (bottom left) and Rye (bottom right).</figcaption>
+	<br>
 </figure>
 
-### Main findings
 
-We found that VCI and TCI correlated positively with annual yields, that is, agricultural droughts (characterised by values of these variables below 0.5) generated yield damages that ranged from 2% up to more than 20% depending on the crop and the severity of the drought episode. Moreover, we found that the effect of VCI on yields is intensified as we approach the harvesting phase of crops (Siebert et al. [2017](http://iopscience.iop.org/article/10.1088/1748-9326/aa7f15){:target="_blank"}). On the other hand, TCI had a significant effect on the first and last stages of the growing period (except for rye, in which TCI was relevant in the second and third stages). Despite farm level yields being explained by a large set of local and specific factors, a remarkable amount of yield variability at the field scale was explained only by using these two drought condition indices.
-
-The trend analysis of yields is in agreement with that found by other scientists on the general stagnation of cereal yields in Europe (Ceglar et al. [2016](https://www.sciencedirect.com/science/article/pii/S0168192315007303){:target="_blank"}, [2017](https://www.sciencedirect.com/science/article/pii/S0168192317301247){:target="_blank"}). This study also shows that this trend is general for all varieties, except for rye. Lobell and Moore ([2015](http://www.pnas.org/content/112/9/2670){:target="_blank"}) have found evidence that this applies since the beginning of the 90’s, possibly connected to the action of human-induced climate change.
-
-<figure class="half">
-	<a href="/images/TR_detrend_cell_avg_vci.png"><img src="/images/TR_detrend_cell_avg_vci.png"></a>
-	<a href="/images/CB_detrend_cell_avg_vci.png"><img src="/images/CB_detrend_cell_avg_vci.png"></a>
-	<figcaption>Wheat (left) and Barley (right) average crop yield anomalies (t/ha) for quintiles of Drought Environment Index (DEI) anomaly by year (dashed lines) and best-fit linear regression for each quintile (solid lines).</figcaption>
-</figure>
-
-<br>
-
-The Drought Environment Index (DEI) demonstrated to be a valuable index for assessing trends of crop sensitivity to droughts. The analysis of yield anomalies over the study period showed a reduction of wheat and barley sensitivity to extreme drought conditions (characterised by DEI quintiles), and certain improvement in the performance of barley yields under moderate drought conditions, possibly describing an improvement in seed’s drought resilience. No changes in sensitivity were identified for oat or rye while a general increase in productivity was detected for the latter for all levels of drought severity.
+We showed that remote sensing based models were superior to SPI-based for all crops, both for yield levels and yield anomalies. More specifically, VCI/TCI models of winter wheat and barley were able to explain 70% and 40% of yield levels and yield anomalies variability, respectively. We additionally showed that the goodness of fit of remote sensing based models increased as pixels lying on urban areas were removed from the analysis. Finally, we observed gains in explanatory power when models for climatic zones (instead of models at the national scale) were built. All of our results were cross-validated on subsamples of the whole dataset and on individually fitted models to each Comarca Agraria and their predictive accuracy was assessed on a real-time forecasting exercise. The results of this study point the need to feed agricultural tools, such as agricultural drought early warning systems, crop yield forecasting models and water resource management tools with more local, high-resolution remotely sensed drought data in detriment of spatially coarser precipitation grids.
 
 ---
 
-## A non-parametric approach to describe spatio-temporal yield variation and drought impacts at the farm level: An application to the Po river basin 
+## A non-parametric approach to describe spatio-temporal yield variation and drought impacts at the farm level: An application to Puglia and the Po river basin 
 
 #### with Raúl López, Andrea Toreti and Mateo Zampieri ([Joint Research Centre](https://ec.europa.eu/jrc/en/mars){:target="_blank"}). Work in progress.
 

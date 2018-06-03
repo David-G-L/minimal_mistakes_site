@@ -4,15 +4,18 @@ title: Publications
 share: false
 ---
 ### Working papers
-- **Hydro-meteorological versus remote sensing drought indicators as explanatory factors of crop yields in water-limited areas - A case study of Spain's agricultural districts**, (2018). Submitted to *Agricultural Water Management*. [[post]({{ site.url }}/impacts/)]
+- **A comparison of meteorological and satellite-based drought indices as yield predictors of Spanish winter cereals**, (2018). Submitted to *Agricultural Water Management*. [[post]({{ site.url }}/impacts/)]
 
-- **The optimal balance between Mitigation and Adaptation to Climate Change: An analysis under uncertainty**, (2015). [[pdf](http://www.feem.it/getpage.aspx?id=8280&sez=Publications&padre=73){:onclick="ga('send','event','Descarga Papers','DGL02')"}{:target="_blank"}]
+- **The optimal balance between Mitigation and Adaptation to Climate Change: An analysis under uncertainty**, (2015). [[pdf](http://www.feem.it/getpage.aspx?id=8280&sez=Publications&padre=73){:onclick="ga('send','event','Descarga Papers','DGL02_WP')"}{:target="_blank"}]
 
-- **Weather and Income: Lessons from the main European Regions**, (2014). [[pdf](http://www.feem.it/getpage.aspx?id=7443&sez=Publications&padre=73){:onclick="ga('send','event','Descarga Papers','DGL01')"}{:target="_blank"}]
+- **Weather and Income: Lessons from the main European Regions**, (2014). [[pdf](http://www.feem.it/getpage.aspx?id=7443&sez=Publications&padre=73){:onclick="ga('send','event','Descarga Papers','DGL01_WP')"}{:target="_blank"}]
 
 ### Presentations
 
-- **Drought sensitivity changes of rainfed cereals in Spain assessed with remote sensing**, (2017).
+- **Drought and extreme heat effects on crop yields: statistical crop modelling at the farm scale in Puglia and the Po river basin**, (2018).
+ [[pdf]({{ site.url }}/pdf/DGL04p_20180215.pdf){:onclick="ga('send','event','Descarga Papers','DGL04p')"}{:target="_blank"}]
+ 
+ - **Drought sensitivity changes of rainfed cereals in Spain assessed with remote sensing**, (2017).
  [[pdf]({{ site.url }}/pdf/DGL03p_20170922.pdf){:onclick="ga('send','event','Descarga Papers','DGL03p')"}{:target="_blank"}]
  
 - **Weather and Income: Lessons from the main European Regions**, (2015). Presented at the 21st *EAERE*'s Annual Conference.

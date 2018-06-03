@@ -9,7 +9,7 @@ image:
   feature: cropmod.jpg
 ---
 
-#### with Andrej Ceglar, Raúl López and Simona Bassu ([Joint Research Centre](https://ec.europa.eu/jrc/en/mars){:target="_blank"}). Work in progress.
+#### with Andrej Ceglar and Raúl López ([Joint Research Centre](https://ec.europa.eu/jrc/en/mars){:target="_blank"}). Work in progress.
 
 The purpose of this research project is to improve winter wheat crop model calibration by better simulating crop yields using actual field-level yield data, which will eventually improve [MARS](https://ec.europa.eu/jrc/en/research-topic/crop-yield-forecasting){:target="_blank"} crop yield forecasting tools and will help to estimate crop water requirements (implications for irrigation).
 

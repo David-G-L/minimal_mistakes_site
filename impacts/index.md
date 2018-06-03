@@ -12,7 +12,7 @@ image:
 
 ---
 
-## Hydro-meteorological versus remote sensing drought indicators as explanatory factors of crop yields in water-limited areas: A case study of Spain’s agricultural districts
+## A comparison of meteorological and satellite-based drought indices as yield predictors of Spanish winter cereals
 
 #### with [Sergio Contreras](http://www.futurewater.es/quienes-somos/nuestro-equipo/sergio-contreras-lopez/){:target="_blank"} and [Johannes Hunink](http://www.futurewater.es/quienes-somos/nuestro-equipo/johannes-hunink/){:target="_blank"} ([FutureWater](http://www.futurewater.es/){:target="_blank"}). Submitted to *Agricultural Water Management.*
 

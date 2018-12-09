@@ -3,31 +3,16 @@ layout: page
 title: Publications
 share: false
 ---
-### Working papers
-- **A comparison of meteorological and satellite-based drought indices as yield predictors of Spanish winter cereals**, (2018). Submitted to *Agricultural Water Management*. [[post]({{ site.url }}/impacts/)]
+### Journal Articles
 
+<div class="middle">
+<span><strong>Garc&#xED;a-Le&#xF3;n, D.</strong>,  Contreras, S. and J. Hunink. <strong>Comparison of meteorological and satellite-based drought indices as yield predictors of Spanish cereals</strong>. (2019). <em>Agricultural Water Management</em>, 213, pp. 388-396. [doi:<a href="https://doi.org/10.1016/j.agwat.2018.10.030" target="_blank" onclick="ga('send','event','Descarga Papers','DGL03');"><u>10.1016/j.agwat.2018.10.030</u></a>]</span> <img style="padding: 10px;" src="/images/agwat_front.png">
+</div>
+
+### Working papers
 - **The optimal balance between Mitigation and Adaptation to Climate Change: An analysis under uncertainty**, (2015). [[pdf](http://www.feem.it/getpage.aspx?id=8280&sez=Publications&padre=73){:onclick="ga('send','event','Descarga Papers','DGL02_WP')"}{:target="_blank"}]
 
 - **Weather and Income: Lessons from the main European Regions**, (2014). [[pdf](http://www.feem.it/getpage.aspx?id=7443&sez=Publications&padre=73){:onclick="ga('send','event','Descarga Papers','DGL01_WP')"}{:target="_blank"}]
-
-### Presentations
-
-- **Drought and extreme heat effects on crop yields: statistical crop modelling at the farm scale in Puglia and the Po river basin**, (2018).
- [[pdf]({{ site.url }}/pdf/DGL04p_20180215.pdf){:onclick="ga('send','event','Descarga Papers','DGL04p')"}{:target="_blank"}]
- 
- - **Drought sensitivity changes of rainfed cereals in Spain assessed with remote sensing**, (2017).
- [[pdf]({{ site.url }}/pdf/DGL03p_20170922.pdf){:onclick="ga('send','event','Descarga Papers','DGL03p')"}{:target="_blank"}]
- 
-- **Weather and Income: Lessons from the main European Regions**, (2015). Presented at the 21st *EAERE*'s Annual Conference.
- [[pdf]({{ site.url }}/pdf/DGL01p_20150627.pdf){:onclick="ga('send','event','Descarga Papers','DGL01p')"}{:target="_blank"}]
- 
-### Articles (old)
-
-- **Pension system reforms in some EMU countries**. (2011) (*with Esther Gordo and Marta Manrique*). Bank of Spain's
-Economic Bulletin, February. [[pdf](http://www.bde.es/f/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/11/Jul/Fich/art4.pdf){:onclick="ga('send','event','Descarga Papers','BdE02')"}{:target="_blank"}]
-
-- **Stock accumulation in the euro area during the Great Recession**. (2011) (*with Pablo Burriel*). Bank of Spain's
-Economic Bulletin, July-August. [[pdf](http://www.bde.es/f/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/11/Mar/Fich/art3.pdf){:onclick="ga('send','event','Descarga Papers','BdE01')"}{:target="_blank"}]
 
 ### Other Documents
 

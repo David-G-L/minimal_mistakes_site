@@ -8,15 +8,15 @@ image:
   feature: feat_image_dgl03.jpg
 ---
 
->The use of **statistical methods** to approach the relationship between yields and meteorological variables has proliferated during the last decade. This is attributable to the increasing availability and improved quality of observed data, the development of computer tools that can handle big data sets, and the adoption of new observation techniques, like **remote sensing**. Schlenker and Roberts ([2009](http://www.pnas.org/content/106/37/15594){:target="_blank"}) is a prominent example of this stream of literature. Some authors, like Lobell ([2010](http://link.springer.com/chapter/10.1007%2F978-90-481-2953-9_5){:target="_blank"}), claim that, under certain circumstances, this approach would beat the explanatory and forecasting performance of traditional crop models.
+>The use of **statistical methods** to approach the relationship between yields and meteorological variables has proliferated during the last decade. This is attributable to the increasing availability and improved quality of observed data, the development of computer tools that can handle big data sets, and the adoption of new observation techniques, like **remote sensing**. Schlenker and Roberts ([2009](http://www.pnas.org/content/106/37/15594){:target="_blank"}) is a prominent example of this stream of literature. Lobell et al. ([2010](http://link.springer.com/chapter/10.1007%2F978-90-481-2953-9_5){:target="_blank"}) claim that, under certain circumstances, this approach would beat the explanatory and forecasting performance of traditional (process-based) crop models.
 
 ---
 
-## A comparison of meteorological and satellite-based drought indices as yield predictors of Spanish winter cereals
+## Comparison of meteorological and satellite-based drought indices as yield predictors of Spanish cereals
 
-#### with [Sergio Contreras](http://www.futurewater.es/quienes-somos/nuestro-equipo/sergio-contreras-lopez/){:target="_blank"} and [Johannes Hunink](http://www.futurewater.es/quienes-somos/nuestro-equipo/johannes-hunink/){:target="_blank"} ([FutureWater](http://www.futurewater.es/){:target="_blank"}). Submitted to *Agricultural Water Management.*
+#### with [Sergio Contreras](http://www.futurewater.es/quienes-somos/nuestro-equipo/sergio-contreras-lopez/){:target="_blank"} and [Johannes Hunink](http://www.futurewater.es/quienes-somos/nuestro-equipo/johannes-hunink/){:target="_blank"} ([FutureWater](http://www.futurewater.es/){:target="_blank"}). *Agricultural Water Management*, 213, pp. 388-396.
 
-In the context of global warming, as drought episodes become increasingly frequent, it is crucial to understand how to efficiently measure agricultural drought impacts on crops. In particular, it is not clear whether statistical crop models based on more traditional and coarser meteorological indicators of droughts perform better than those based on remotely sensed indicators. We empirically assessed this hypothesis using a spatially detailed, 12-year (2003-2015) dataset on crop yields and harvested areas for plots throughout Spain to estimate statistical crop models of major winter cereals.  Yields and composite drought indicators were spatially aggregated at the Comarca Agraria level (agricultural district). We measured agricultural drought stress using the Standardised Precipitation Index (SPI) at different temporal aggregation and two remote sensing Vegetation Indicators (VIs): the Vegetation Condition Index (VCI) and the Temperature Condition Index (TCI), and their combination. 
+In the context of global warming, as drought episodes become increasingly frequent, it is crucial to accurately measure the impacts of droughts on the overall performance of agrosystems. This study aims to compare the effectiveness of meteorological drought indices against satellite-based agronomical drought indices as crop yield explanatory factors in statistical models calibrated at a local scale. The analysis is conducted in Spain using a spatially detailed, 12-year (2003-2015) dataset on crop yields, including different types of cereals. Yields and drought indices were spatially aggregated at the agricultural district level. 
 
 <figure class="half">
 	<a href="/images/TR_binary.png"><img src="/images/TR_binary.png"></a>
@@ -26,23 +26,26 @@ In the context of global warming, as drought episodes become increasingly freque
 	<figcaption>Spatial distribution of cereal production in Spain, as derived from the ESYRCE survey. Wheat (upper left), Barley (upper right), Oat (bottom left) and Rye (bottom right).</figcaption>
 	<br>
 </figure>
+<br>
+The Standardised Precipitation Index (SPI), computed at different temporal aggregation levels, and two satellite-based drought indices, the Vegetation Condition Index (VCI) and the Temperature Condition Index (TCI), were used to characterise the dynamics of drought severity conditions in the study area. Models resting on satellite-based indices showed higher performance in explaining yield levels as well as yield anomalies for all the crops evaluated. In particular, VCI/TCI models of winter wheat and barley were able to explain 70% and 40% of annual crop yield level and crop yield anomaly variability, respectively. We also observed gains in explanatory power when models for climate zones (instead of models at the national scale) were considered. All the results were cross-validated on subsamples of the whole dataset and on models fitted to individual agricultural districts and their predictive accuracy was assessed with a real-time forecasting exercise. 
 
-
-We showed that remote sensing based models were superior to SPI-based for all crops, both for yield levels and yield anomalies. More specifically, VCI/TCI models of winter wheat and barley were able to explain 70% and 40% of yield levels and yield anomalies variability, respectively. We additionally showed that the goodness of fit of remote sensing based models increased as pixels lying on urban areas were removed from the analysis. Finally, we observed gains in explanatory power when models for climatic zones (instead of models at the national scale) were built. All of our results were cross-validated on subsamples of the whole dataset and on individually fitted models to each Comarca Agraria and their predictive accuracy was assessed on a real-time forecasting exercise. The results of this study point the need to feed agricultural tools, such as agricultural drought early warning systems, crop yield forecasting models and water resource management tools with more local, high-resolution remotely sensed drought data in detriment of spatially coarser precipitation grids.
+Results from this study highlight the potential for including satellite-based drought indices in agricultural decision support systems (e.g. agricultural drought early warning systems, crop yield forecasting models or water resource management tools) complementing meteorological drought indices derived from precipitation grids. 
 
 ---
 
-## A non-parametric approach to describe spatio-temporal yield variation and drought impacts at the farm level: An application to Puglia and the Po river basin 
+## Lessons from local-level statistical crop models: optimal predictors, spatio-temporal aggregation and econometric methods
 
-#### with Raúl López, Andrea Toreti and Mateo Zampieri ([Joint Research Centre](https://ec.europa.eu/jrc/en/mars){:target="_blank"}). Work in progress.
+#### with Raúl López (INRA), Andrea Toreti and Mateo Zampieri ([Joint Research Centre](https://ec.europa.eu/jrc/en/mars){:target="_blank"}-European Commission). Work in progress.
 
-The purpose of this research project is to advance in describing the role of remote sensing drought indicators as explanatory factors of rainfed crop yields using empirical crop models. From this research phase, an early warning drought classification system could be extracted.
+The goal of this research project is to advance in describing the role of methods and indicators in the estimation of local level statistical crop models. A set of different meteorological and remote sensing drought indicators as explanatory factors of rainfed crop yields will be considered. The optimal level of spatial aggregation of weather and agricultural data will be explored. On top of classical regression techniques in predicting crop yields, recently proposed regularisation methods will also be explored. 
 
 ### Data
 
 **Weather and Remote Sensing data**
 
-- Meteorological indicators (temperature, precipitation) from weather stations: Local network of stations in the Po Valley, as the network is dense enough and available. 
+- Meteorological variables (temperature, precipitation) from the [UERRA-HARMONIE](https://apps.ecmwf.int/datasets/data/uerra/levtype=sfc/stream=oper/type=an/){:target="_blank"} gridded dataset.
+
+- [SPEI](http://spei.csic.es/){:target="_blank"} at different time steps computed from the above variables.
 
 - [fAPAR](http://land.copernicus.eu/global/products/fapar){:target="_blank"} from Copernicus. Indicator on crop photosynthetic activity. 
 
@@ -52,25 +55,28 @@ The purpose of this research project is to advance in describing the role of rem
 
 - Land Surface Temperature (LST), from thermal imagery. This product is available since 1981.
 
-**Yield data**. [RICA](http://www.rica.inea.it/public/it/index.php){:target="_blank"} dataset on yield and other agricultural variables over the Po Valley.
+**Yield data**. [RICA](http://www.rica.inea.it/public/it/index.php){:target="_blank"} dataset on farm-level, georeferenced yield and other agricultural variables over Puglia and the Po Valley.
+
+<figure class="half">
+	<a href="/images/RICA_avg_yields_PG_Frumento.png"><img src="/images/RICA_avg_yields_PG_Frumento.png"></a>
+	<a href="/images/RICA_avg_yields_PO_Frumento.png"><img src="/images/RICA_avg_yields_PO_Frumento.png"></a>
+	<figcaption>Average wheat yields (municipality level) over the study period in Puglia (left) and the Po river Basin influence area (right), as obtained from the RICA dataset.</figcaption>
+</figure>
 
 ### Methods 
 
-We will adapt the methodology of García-León et al. ([2017]({{ site.url }}/impacts/)) to this case study. An empirical crop model is estimated using meteorological and biophysical remote sensing observations
+Sharif et al. ([2017](https://doi.org/10.1016/j.eja.2016.09.015){:target="_blank"}) applied with success regularisation techniques to local level crop models of oilseed rape. We extend here on their methodology by applying classical and regularisation methods to different crops and agro-climatic regions.
 
-$$yield=\alpha+\beta*province+\delta*year+X^{'}\gamma+u$$
+Our benchmark empirical crop model reads
 
-Yield anomalies will be defined as
+$$log(yield_{i})= \beta_{00} + \beta_{01}\cdot \text{Year}_i + x_i^T\beta + \epsilon_i$$
 
-$$Z=yield-\hat{\alpha}+\hat{\beta}*province+\hat{\delta}*year$$
+where the following expression is minimised
 
-Sensitivity of yields could be explored by looking at the **Drought Environment Index** (DEI)
+$$\underset{\alpha,\beta}{\mathrm{min}}\left(\frac{\text{RSS}}{2N} + \lambda \left[\frac{1-\alpha}{2}\left\lVert \beta \right\rVert^{2}_{2} + \alpha\left\lVert \beta \right\rVert_{1} \right]\right)$$
 
-$$DEI=\hat{yield}-\hat{\alpha}+\hat{\beta}*province+\hat{\delta}*year=X^{'}\hat{\gamma}$$
+and
 
-Following Zampieri et al ([2017](http://iopscience.iop.org/article/10.1088/1748-9326/aa723b/meta)), construct a tailor-made Combined Stress Indicator (CSI) as yield explanatory factor, using non-parametric techniques: LOESS detrending and ridge linear equations.
+$$\text{RSS}=\sum\limits_{i=1}^N (log(yield_i)-\beta_{00} - \beta_{01}\cdot \text{Year}_i - x_i^T\beta)^2$$
 
- 
-$$CSI=a*METEO_{detrend}+b*RS_{detrend}$$
-
-Given the discontinuity of farms surveillance, it is proposed to work on a longitudinal framework. Working at the strata level (economic dimension of farms) seems also interesting.
+where $$\beta_0=\{\beta_{00},\beta_{01}\}$$ is a vector of not penalised parameters, $$\left\lVert \beta \right\rVert^{2}_{2} = \sum_{j=1}^{k} \beta_j^2$$ and $$\left\lVert \beta \right\rVert_{1} = \sum_{j=1}^{k} \mid\beta_j\mid$$. The hyperparameter $$\lambda$$ is chosen through cross-validation. Accounting for the co-linearities between heat stress and drought. over a grid of values of lambda covering the entire range. Assuming gaussian errors, the negative log-likelihood contribution for observation $$i$$. The elastic-net penalty is controlled by $$\alpha$$, and bridges the gap between lasso ($$\alpha=1$$, the default) and ridge ($$\alpha=0$$). The tuning parameter $$\lambda$$ controls the overall strength of the penalty.

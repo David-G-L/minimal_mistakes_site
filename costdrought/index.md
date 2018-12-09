@@ -30,8 +30,8 @@ The starting point is the GTAP 8 database (Narayanan et al., 2012). It comprises
 	<figcaption>An overview of the classification of Italy in agricultural districts (<em>Regioni Agrarie</em>).</figcaption>
 </figure>
 
-####Statistical crop models
+#### Statistical crop models
 The fraction of Absorbed Photosynthetically Active Radiation (fAPAR) is recognised as an excellent indicator of the vegetation health status of the plant, reflecting faithfully variations in the water assimilation and irrigation changes derived from water scarcity periods. fAPAR-based statistical crop models at the *Regione Agraria* level based on linear econometric techniques will be built for each considered dry season. The estimated direct impacts will be later aggregated at the regional level and fed into the CGE model.
 
-####Integrated impacts of droughts
+#### Integrated impacts of droughts
 The integrated model sought in this paper is conceptually divided into three parts: i) the spatial analysis of the drought events for the estimation of direct impacts and affected areas (at the *Regione Agraria* level) per land use class of Corine Land Cover 2000 (CLC2000); ii) the spatial-CGE integration, which produces the input (damage to the primary factors productivity per economic sector) to ‘shock’ the CGE model; iii) and the CGE model simulation which provides the indirect impacts.

@@ -19,11 +19,10 @@
   {% if author.scholar %}<a href="https://scholar.google.com/citations?user={{ author.scholar }}" class="author-social" target="_blank"><i class="ai ai-fw ai-google-scholar"></i> Google Scholar</a>{% endif %}
   {% if author.researchgate %}<a href="https://www.researchgate.net/profile/{{ author.researchgate }}" class="author-social" target="_blank"><i class="ai ai-fw ai-researchgate"></i> Research Gate</a>{% endif %}
   <!--{% if author.ideas %}<a href="https://ideas.repec.org/f/{{ author.ideas }}.html" class="author-social" target="_blank"><i class="fa fa-fw fa-lightbulb-o"></i> Ideas-Repec</a>{% endif %}-->
- {% if author.orcid %}<a href="http://orcid.org{{ author.orcid }}" class="author-social" target="_blank"><i class="ai ai-fw ai-orcid"></i> Orcid</a>{% endif %}
+  {% if author.orcid %}<a href="http://orcid.org{{ author.orcid }}" class="author-social" target="_blank"><i class="ai ai-fw ai-orcid"></i> Orcid</a>{% endif %}
   {% if author.github %}<a href="http://github.com/{{ author.github }}" class="author-social" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>{% endif %}
-  {% if author.feed == true %}<a href="{{ site.url }}/feed" onclick="ga('send','event','RSS','Subscription')" class="author-social" target="_blank"><i class="fa fa-fw fa-rss"></i> RSS</a>{% endif %}
-  
   {% if author.twitter %}<a href="http://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
+  {% if author.feed == true %}<a href="{{ site.url }}/feed" onclick="ga('send','event','RSS','Subscription')" class="author-social" target="_blank"><i class="fa fa-fw fa-rss"></i> RSS</a>{% endif %}
   {% if author.facebook %}<a href="http://facebook.com/{{ author.facebook }}" class="author-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>{% endif %}
   {% if author.google.plus %}<a href="http://plus.google.com/+{{ author.google.plus }}" class="author-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>{% endif %}
   {% if author.linkedin %}<a href="http://linkedin.com/in/{{ author.linkedin }}" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>{% endif %}

@@ -8,7 +8,7 @@ image:
   feature: feat_image_dgl03.jpg
 ---
 
->The use of **statistical methods** to approach the relationship between yields and meteorological variables has proliferated during the last decade. This is attributable to the increasing availability and improved quality of observed data, the development of computer tools that can handle big data sets, and the adoption of new observation techniques, like **remote sensing**. Schlenker and Roberts ([2009](http://www.pnas.org/content/106/37/15594){:target="_blank"}) is a prominent example of this stream of literature. Lobell et al. ([2010](http://link.springer.com/chapter/10.1007%2F978-90-481-2953-9_5){:target="_blank"}) claim that, under certain circumstances, this approach would beat the explanatory and forecasting performance of traditional (process-based) crop models.
+>The use of **statistical methods** to approach the relationship between yields and meteorological variables has proliferated during the last decade. This is attributable to the increasing availability and improved quality of observed data, the development of computer tools that can handle big data sets, and the adoption of new observation techniques, such as **remote sensing**. Schlenker and Roberts ([2009](http://www.pnas.org/content/106/37/15594){:target="_blank"}) is a prominent example of this stream of literature. Lobell et al. ([2010](http://link.springer.com/chapter/10.1007%2F978-90-481-2953-9_5){:target="_blank"}) claim that, under certain circumstances, this approach would beat the explanatory and forecasting performance of traditional (process-based) crop models.
 
 ---
 

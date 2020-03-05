@@ -8,7 +8,7 @@ image:
   credit: NASA
   creditlink: http://climate.nasa.gov/state_of_flux
 ---
-I am a Marie Sk&#322;odowska-Curie Postdoctoral Fellow at the [Ca' Foscari University of Venice](http://www.unive.it/pag/13526/){:target="_blank"} and Affiliated Researcher to the [Euro-Mediterranean Center on Climate Change (CMCC)](https://www.cmcc.it/){:target="_blank"}, where I develop my project [**WATER DROP**](http://www.water-drop.eu/){:target="_blank"} (*Droughts and Water Scarcity in the EU: Economic Impact, Adaptation, Policy Implications and Integrated Assessment Modelling*). 
+I am a Marie Sk&#322;odowska-Curie Postdoctoral Fellow at the [Ca' Foscari University of Venice](http://www.unive.it/pag/13526/){:target="_blank"} and Affiliated Researcher to the [Euro-Mediterranean Center on Climate Change (CMCC)](https://www.cmcc.it/){:target="_blank"}, where I develop my project **WATER DROP** (*Droughts and Water Scarcity in the EU: Economic Impact, Adaptation, Policy Implications and Integrated Assessment Modelling*). 
 
 My current research focuses on the estimation and analysis of drought impacts on European agriculture systems in the context of climate change. I rely on several interdisciplinary methods, such as statistical and process-based crop models or regionalised macroeconomic models as well as on satellite imagery, machine learning and geo-referenced farm-level data to capture these interactions.
 

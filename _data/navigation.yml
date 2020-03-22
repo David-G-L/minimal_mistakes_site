@@ -5,9 +5,12 @@
 
 - title: cost of droughts
   url: /costdrought/
-  
-- title: crop models
-  url: /cropmod/
+
+- title: cost of heatwaves
+  url: /costheatwaves/
+    
+#- title: crop models
+#  url: /cropmod/
  
 #- title: food security
 #  url: /foodsec/
@@ -18,5 +21,5 @@
 - title: Papers
   url: /papers/
 
-- title: Code
-  url: /code/
+#- title: Code
+#  url: /code/

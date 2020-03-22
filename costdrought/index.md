@@ -9,7 +9,7 @@ image:
   feature: drought_cost-crop.jpg
 ---
 
-#### with [Gabriele Standardi](https://www.cmcc.it/people/standardi-gabriele){:target="_blank"} ([CMCC](https://www.cmcc.it/){:target="_blank"}) and [Andrea Staccione](https://www.cmcc.it/it/people/staccione-andrea){:target="_blank"} ([CMCC](https://www.cmcc.it/){:target="_blank"} and Ca' Foscari University). Work in progress.
+#### with [Gabriele Standardi](https://www.cmcc.it/people/standardi-gabriele){:target="_blank"} ([CMCC](https://www.cmcc.it/){:target="_blank"}) and [Andrea Staccione](https://www.cmcc.it/it/people/staccione-andrea){:target="_blank"} ([CMCC](https://www.cmcc.it/){:target="_blank"} and Ca' Foscari University). Submitted.
 
 The objective of this research is to assess the overall (direct and indirect) macroeconomic effects (%GDP) of agricultural drought impacts in Italy. through a coupled CGE-econometric approach. fAPAR-based statistical crop models for major Italian crops will be fitted at a local-level (*Regione Agraria*) and subsequently aggregated (spatially-weighted) at the Regional (NUTS-2) level. Regional economic impacts will feed a regionalised Computable General Equilibrium model specifically calibrated for the Italian economy. Crop-specific direct and indirect impacts will be evaluated at different dry and exceptionally dry growing seasons: 2003, 2006 and 2011. This study will shed light on the country-wide characterisation of this hazard using spatially detailed agricultural and drought data and will be a valuable tool to develop local-level drought risk management plans.
 

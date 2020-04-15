@@ -6,7 +6,7 @@ share: false
 ### Journal Articles
 
 <div class="middle">
-<span><strong>Garc&#xED;a-Le&#xF3;n, D.</strong>,  Contreras, S. and J. Hunink. <strong>Comparison of meteorological and satellite-based drought indices as yield predictors of Spanish cereals</strong>. (2019). <em>Agricultural Water Management</em>, 213, pp. 388-396. [doi:<a href="https://doi.org/10.1016/j.agwat.2018.10.030" target="_blank" onclick="ga('send','event','Descarga Papers','DGL03');"><u>10.1016/j.agwat.2018.10.030</u></a>]</span> <img style="padding: 10px;" src="/images/agwat_front.png">
+<span><strong>Garc&#xED;a-Le&#xF3;n, D.</strong>,  Contreras, S. and J. Hunink (2019). <strong>Comparison of meteorological and satellite-based drought indices as yield predictors of Spanish cereals</strong>. <em>Agricultural Water Management</em>, 213, pp. 388-396. [doi:<a href="https://doi.org/10.1016/j.agwat.2018.10.030" target="_blank" onclick="ga('send','event','Descarga Papers','DGL03');"><u>10.1016/j.agwat.2018.10.030</u></a>]</span> <img style="padding: 10px;" src="/images/agwat_front.png">
 </div>
 
 ### Working papers

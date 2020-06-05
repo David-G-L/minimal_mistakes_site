@@ -35,7 +35,7 @@ Results from this study highlight the potential for including satellite-based dr
 
 ## Local-scale cereal yield forecasting in Italy: Lessons from different statistical models and spatial aggregations
 
-#### with Raúl López (INRA), Andrea Toreti and Mateo Zampieri ([Joint Research Centre](https://ec.europa.eu/jrc/en/mars){:target="_blank"}-European Commission). Submitted.
+#### with Raúl López (INRAE), Andrea Toreti and Mateo Zampieri ([Joint Research Centre](https://ec.europa.eu/jrc/en/mars){:target="_blank"}-European Commission). *Agronomy*, 10(6), 809.
 
 The goal of this research project is to advance in describing the role of methods and indicators in the estimation of local level statistical crop models. A set of different meteorological and remote sensing drought indicators as explanatory factors of rainfed crop yields will be considered. The optimal level of spatial aggregation of weather and agricultural data will be explored. On top of classical regression techniques in predicting crop yields, recently proposed regularisation methods will also be explored. 
 
@@ -80,3 +80,12 @@ and
 $$\text{RSS}=\sum\limits_{i=1}^N (log(yield_i)-\beta_{00} - \beta_{01}\cdot \text{Year}_i - x_i^T\beta)^2$$
 
 where $$\beta_0=\{\beta_{00},\beta_{01}\}$$ is a vector of not penalised parameters, $$\left\lVert \beta \right\rVert^{2}_{2} = \sum_{j=1}^{k} \beta_j^2$$ and $$\left\lVert \beta \right\rVert_{1} = \sum_{j=1}^{k} \mid\beta_j\mid$$. The hyperparameter $$\lambda$$ is chosen through cross-validation. Accounting for the co-linearities between heat stress and drought. over a grid of values of lambda covering the entire range. Assuming gaussian errors, the negative log-likelihood contribution for observation $$i$$. The elastic-net penalty is controlled by $$\alpha$$, and bridges the gap between lasso ($$\alpha=1$$, the default) and ridge ($$\alpha=0$$). The tuning parameter $$\lambda$$ controls the overall strength of the penalty.
+
+<figure align="center">
+	<a href="/images/likert_lasso_arranged.png"><img src="/images/likert_lasso_arranged.png"></a>
+	<figcaption>Relative weight (%) of satellite‐based indicators (purple‐left) compared to meteorological indicators (green‐right), within all selected features in lasso models at the province (A), agricultural district (B) and municipality level (C), for all the region‐crop combinations.</figcaption>
+</figure>
+
+### Conclusions
+
+The predictive ability of several local‐scale statistical models for Italian cereal yields was tested in this study. Summer crops showed relatively better predictability than winter crops, irrespective of the model considered. This may be partly explained by a more intricate relation between winter cereals and excess water scenarios, and because some winter species are subject to different physiological processes, such as vernalization, neither of which is well captured by our predictors. Differences in the fit of wheat models in both regions could also respond to common and durum wheat reacting differently to weather variations. More complex models based on feature selection outperformed parsimonious models, evidencing the gains of combining climate and satellite information. These gains, however, decreased as yield and predictors were spatially aggregated. Within feature selection models, a preference for satellite‐based indicators was revealed, probably because their higher native resolution can better match local crop characteristics. We conclude, however, that feature selection from regularized models needs to be further explored, as it seems highly dependent on the total size of the regularization penalty. Finally, our results indicate that parsimonious models based on pure meteorological variables behave well in predicting cereal yields at coarse aggregation scales, but if finer levels of spatial detail are sought, combining information from different sources using; for instance, the regularization methods proposed in this study can improve the overall performance of crop yield forecasting tools.

@@ -4,7 +4,9 @@ title: Publications
 share: false
 ---
 ### Journal Articles
-
+<div class="middle">
+<span><strong>Garc&#xED;a-Le&#xF3;n, D.</strong>,  L&#xF3;pez-Lozano, R., Toreti, A., and M. Zampieri (2020). <strong>Local-scale cereal yield forecasting in Italy: Lessons from different statistical models and spatial aggregations</strong>. <em>Agronomy</em>, 10(6), 809. [doi:<a href="https://doi.org/10.3390/agronomy10060809" target="_blank" onclick="ga('send','event','Descarga Papers','DGL04');"><u>10.3390/agronomy10060809</u></a>]</span> <img style="padding: 10px;" src="/images/agronomy_front.png">
+</div>
 <div class="middle">
 <span><strong>Garc&#xED;a-Le&#xF3;n, D.</strong>,  Contreras, S. and J. Hunink (2019). <strong>Comparison of meteorological and satellite-based drought indices as yield predictors of Spanish cereals</strong>. <em>Agricultural Water Management</em>, 213, pp. 388-396. [doi:<a href="https://doi.org/10.1016/j.agwat.2018.10.030" target="_blank" onclick="ga('send','event','Descarga Papers','DGL03');"><u>10.1016/j.agwat.2018.10.030</u></a>]</span> <img style="padding: 10px;" src="/images/agwat_front.png">
 </div>

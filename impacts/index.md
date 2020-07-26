@@ -14,7 +14,7 @@ image:
 
 ## Comparison of meteorological and satellite-based drought indices as yield predictors of Spanish cereals
 
-#### with [Sergio Contreras](http://www.futurewater.es/quienes-somos/nuestro-equipo/sergio-contreras-lopez/){:target="_blank"} and [Johannes Hunink](http://www.futurewater.es/quienes-somos/nuestro-equipo/johannes-hunink/){:target="_blank"} ([FutureWater](http://www.futurewater.es/){:target="_blank"}). *Agricultural Water Management*, 213, 388-396.
+#### with [Sergio Contreras](http://www.futurewater.es/quienes-somos/nuestro-equipo/sergio-contreras-lopez/){:target="_blank"} and [Johannes Hunink](http://www.futurewater.es/quienes-somos/nuestro-equipo/johannes-hunink/){:target="_blank"} ([FutureWater](http://www.futurewater.es/){:target="_blank"}). [*Agricultural Water Management*, 213, 388-396.](https://doi.org/10.1016/j.agwat.2018.10.030){:target="_blank"}
 
 In the context of global warming, as drought episodes become increasingly frequent, it is crucial to accurately measure the impacts of droughts on the overall performance of agrosystems. This study aims to compare the effectiveness of meteorological drought indices against satellite-based agronomical drought indices as crop yield explanatory factors in statistical models calibrated at a local scale. The analysis is conducted in Spain using a spatially detailed, 12-year (2003-2015) dataset on crop yields, including different types of cereals. Yields and drought indices were spatially aggregated at the agricultural district level. 
 
@@ -35,7 +35,7 @@ Results from this study highlight the potential for including satellite-based dr
 
 ## Local-scale cereal yield forecasting in Italy: Lessons from different statistical models and spatial aggregations
 
-#### with Raúl López (INRAE), Andrea Toreti and Mateo Zampieri ([Joint Research Centre](https://ec.europa.eu/jrc/en/mars){:target="_blank"}-European Commission). *Agronomy*, 10(6), 809.
+#### with Raúl López (INRAE), Andrea Toreti and Mateo Zampieri ([Joint Research Centre](https://ec.europa.eu/jrc/en/mars){:target="_blank"}-European Commission). [*Agronomy*, 10(6), 809.](https://doi.org/10.3390/agronomy10060809){:target="_blank"}
 
 The goal of this research project is to advance in describing the role of methods and indicators in the estimation of local level statistical crop models. A set of different meteorological and remote sensing drought indicators as explanatory factors of rainfed crop yields will be considered. The optimal level of spatial aggregation of weather and agricultural data will be explored. On top of classical regression techniques in predicting crop yields, recently proposed regularisation methods will also be explored. 
 

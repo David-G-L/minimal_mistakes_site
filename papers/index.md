@@ -5,6 +5,9 @@ share: false
 ---
 ### Journal Articles
 <div class="middle">
+<span><strong>Garc&#xED;a-Le&#xF3;n, D.</strong>,  Standardi, G., and A. Staccione (2021). <strong>An integrated approach for the estimation of agricultural drought costs</strong>. <em>Land Use Policy</em>, 100C, 104923. [doi:<a href="https://doi.org/10.1016/j.landusepol.2020.104923" target="_blank" onclick="ga('send','event','Descarga Papers','DGL10');"><u>10.1016/j.landusepol.2020.104923</u></a>]</span> <img style="padding: 10px;" src="/images/lup_front.png">
+</div>
+<div class="middle">
 <span><strong>Garc&#xED;a-Le&#xF3;n, D.</strong>,  L&#xF3;pez-Lozano, R., Toreti, A., and M. Zampieri (2020). <strong>Local-scale cereal yield forecasting in Italy: Lessons from different statistical models and spatial aggregations</strong>. <em>Agronomy</em>, 10(6), 809. [doi:<a href="https://doi.org/10.3390/agronomy10060809" target="_blank" onclick="ga('send','event','Descarga Papers','DGL04');"><u>10.3390/agronomy10060809</u></a>]</span> <img style="padding: 10px;" src="/images/agronomy_front.png">
 </div>
 <div class="middle">
